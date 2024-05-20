@@ -1,4 +1,4 @@
-ScrollReveal({ reset: true }).reveal('.escondido', { duration: 3000 });
+ScrollReveal({ reset: true }).reveal('.escondido', { duration: 2300 });
 
 const tooltipTriggers = document.querySelectorAll('.tooltip-trigger');
 
