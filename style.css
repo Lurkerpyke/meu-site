@@ -227,6 +227,10 @@ a {
     opacity: 1;
 }
 
+.opaco {
+    color: #7a7a7a;
+}
+
 .section {
     height: 100vh;
     max-width: 100vw;
